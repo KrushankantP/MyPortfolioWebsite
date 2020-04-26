@@ -1,18 +1,11 @@
 {
-  "name": "myportfolio",
+  "name": "myportfoliowebsite",
   "version": "1.0.0",
-  "description": "Responsive Portfolio Website",
+  "description": "Responsive Portfolio website",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "repository": {
-    "type": "git",
-    "url": "MyPortfolioWebsite"
-  },
-  "keywords": [
-    "Portfolio"
-  ],
   "author": "Krushankant Patel",
   "license": "MIT",
   "dependencies": {
